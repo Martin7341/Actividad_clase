@@ -1,0 +1,10 @@
+.navbar .nav-link.active {
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.35rem;
+}
+
+.card .display-1,
+.card .fs-1 {
+  line-height: 1;
+}
